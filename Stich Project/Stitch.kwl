@@ -1,0 +1,12 @@
+Keuwlsoft Bluetooth Electronics Panel File
+2022-12-30 22:37:14
+2
+
+*.kwl
+set_grid_size(17,7)
+add_text_box(10,5,6,L,Obstacle Avoiding Mode,245,240,245,)
+add_text_box(10,1,6,L,Line Follower Mode,245,240,245,)
+add_button(8,4,28,O,0)
+add_button(8,1,29,L,0)
+add_4way_pad(2,2,f,r,b,l,0,0,,)
+set_panel_notes(,,,)
